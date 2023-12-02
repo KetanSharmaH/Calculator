@@ -1,0 +1,16 @@
+.btn {
+  --bs-btn-bg: #dddddd;
+  width: 80px;
+}
+.btn:hover {
+  background-color: #d1d1d1;
+}
+.td {
+  width: 6%;
+}
+.calcu {
+  background-color: "#f0f0f0";
+  color: "black";
+  padding-top: "2%";
+  margin-top: "2%";
+}
